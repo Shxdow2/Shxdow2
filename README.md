@@ -21,7 +21,7 @@ Here is the finalized interface for **Shxdow Cleanup v3.1**. It's designed to be
 * **[4] Système:** Updates, Logs, CBS, Event Logs (OS-level optimization).
 * **[5] Optimisation:** Cleanmgr, TRIM, RAM, DNS, Registry (Core performance tweaks).
 * **[6] Hardware:** Surface Pro 8 & Intel Specific (Hardware-targeted optimizations).
-* **[7] Périphériques:** Device Cleanup (Fantômes) (Unused/Hidden device removal).
+* **[7] Périphériques:** Device Cleanup  (Unused/Hidden device removal).
 
 ---
 
