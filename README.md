@@ -42,6 +42,3 @@
 
 ### 📈 GitHub Universe
 ![Shxdow2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shxdow2&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
-
----
-*"If it's repetitive, automate it. If it's messy, clean it. If it's ugly, redesign it."*
