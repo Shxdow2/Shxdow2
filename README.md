@@ -40,5 +40,5 @@
 
 ---
 
-### 📈 GitHub Universe
-![Shxdow2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shxdow2&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shxdow2&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&langs_count=5)
