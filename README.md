@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Shxdow
 
 ### 🛠️ **Lead Developer | Windows Automation Specialist**
-**"Bridging the gap between raw Windows power and elegant Console User Interface (CUI)."**
-
+**Soon to be released, stay connected #maes**
 ---
 
 ### 🚀 Shxdow Cleanup Project Status
