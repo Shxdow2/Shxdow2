@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Shxdow
 
 ### 🛠️ **Lead Developer | Windows Automation Specialist**
-**Soon to be released, stay connected #maes**
+
+*Soon to be released, stay connected #maes*
 ---
 
 ### 🚀 Shxdow Cleanup Project Status
