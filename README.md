@@ -2,7 +2,7 @@
 
 ### 🛠️ **Lead Developer | Windows Automation Specialist**
 
-*Soon to be released, stay connected #maes*
+*What good is your million if you're serving a life sentence? A million for freedom #maes*
 ---
 
 ### 🚀 Shxdow Cleanup Project Status
