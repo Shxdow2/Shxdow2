@@ -7,7 +7,7 @@
 
 ### 🚀 Shxdow Cleanup Project Status
 `Status: Production Ready` 
-`Version: v3.1`
+`Version: v3.3.1`
 `Progress: ████████████████████ 100%`
 
 ---
@@ -18,7 +18,7 @@
 ![Final Interface](image_7.png)
 
 ### 📊 Comprehensive Module Overview
-**Shxdow Cleanup v3.1** isn't just a basic script; it's a modular system engine.
+**Shxdow Cleanup v3.3.1** isn't just a basic script; it's a modular system engine.
 
 * **[1] Temporaires:** Windows, Prefetch, Crypto, RSA.
 * **[2] Web & Apps:** Browsers, Teams, Discord, Spotify.
@@ -26,7 +26,7 @@
 * **[4] Système:** Update, Logs, CBS, Event Logs.
 * **[5] Optimisation:** Cleanmgr, TRIM, RAM, DNS, Registry.
 * **[6] Hardware:** Surface Pro 8 & Intel Specific.
-* **[7] Périphériques:** Device Cleanup (Fantômes).
+* **[7] Périphériques:** Device Cleanup.
 
 ---
 
