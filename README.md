@@ -15,7 +15,7 @@
 ### 🎨 The Interface: Where Power Meets Design
 *“A cleaning tool should be as clean as the system it leaves behind.”*
 
-![Final Interface](image_7.png)
+![Final Interface](image_7.png.png)
 
 ### 📊 Comprehensive Module Overview
 **Shxdow Cleanup v3.3.1** isn't just a basic script; it's a modular system engine.
