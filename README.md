@@ -41,4 +41,4 @@
 ---
 
 ### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shxdow2&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shxdow2&layout=compact&theme=dark)
