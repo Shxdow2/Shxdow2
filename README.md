@@ -20,7 +20,7 @@
 ### 📊 Comprehensive Module Overview
 **ShxdowCleaner 3.4** isn't just a basic script; it's a modular system engine.
 
-* **[1] Temporaires:** Windows, Prefetch, Crypto, RSA.
+* **[1] Temporaires:** Windows, Prefetch,
 * **[2] Web & Apps:** Browsers, Teams, Discord, Spotify.
 * **[3] Gaming:** Steam, Fortnite, Epic, Shaders.
 * **[4] Système:** Update, Logs, CBS, Event Logs.
