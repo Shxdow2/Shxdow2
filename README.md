@@ -5,9 +5,9 @@
 *What good is your million if you're serving a life sentence? A million for freedom #maes*
 ---
 
-### 🚀 Shxdow Cleanup Project Status
+### 🚀 ShxdowCleaner Project Status
 `Status: Production Ready` 
-`Version: v3.3.1`
+`Version: v3.4`
 `Progress: ████████████████████ 100%`
 
 ---
@@ -18,7 +18,7 @@
 ![Final Interface](interface.png)
 
 ### 📊 Comprehensive Module Overview
-**Shxdow Cleanup v3.3.1** isn't just a basic script; it's a modular system engine.
+**ShxdowCleaner 3.4** isn't just a basic script; it's a modular system engine.
 
 * **[1] Temporaires:** Windows, Prefetch, Crypto, RSA.
 * **[2] Web & Apps:** Browsers, Teams, Discord, Spotify.
