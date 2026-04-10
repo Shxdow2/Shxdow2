@@ -32,7 +32,7 @@
 
 ### 🛡️ Tech Stack & Expertise
 <p align="left">
-  <img src="https://img.shields.io/badge/Version-v3.1-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Version-v3.4-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/OS-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Cyan%20CUI-00FFFF?style=for-the-badge&logo=adobe-experience-design&logoColor=black" />
