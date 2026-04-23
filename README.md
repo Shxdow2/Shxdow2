@@ -20,13 +20,12 @@
 ### 📊 Comprehensive Module Overview
 **ShxdowCleaner 3.4** isn't just a basic script; it's a modular system engine.
 
-* **[1] Temporaires:** Windows, Prefetch,
+* **[1] Temporaires:** Windows, Prefetch, Update, Logs, CBS, Event Logs.
 * **[2] Web & Apps:** Browsers, Teams, Discord, Spotify.
 * **[3] Gaming:** Steam, Fortnite, Epic, Shaders.
-* **[4] Système:** Update, Logs, CBS, Event Logs.
-* **[5] Optimisation:** Cleanmgr, TRIM, RAM, DNS, Registry.
-* **[6] Hardware:** Surface Pro 8 & Intel Specific.
-* **[7] Périphériques:** Device Cleanup.
+* **[4] Optimisation:** Cleanmgr, TRIM, RAM, DNS, Registry.
+* **[5] Hardware:** Surface Pro 8 & Intel Specific.
+* **[6] Périphériques:** Device Cleanup.
 
 ---
 
