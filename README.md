@@ -23,7 +23,7 @@
 * **[1] Temporaires:** Windows, Prefetch, Update, Logs, CBS, Event Logs.
 * **[2] Web & Apps:** Browsers, Teams, Discord, Spotify.
 * **[3] Gaming:** Steam, Fortnite, Epic, Shaders.
-* **[4] Dev:** py...
+* **[4] Dev:** py, node
 * **[5] Hardware:** Surface Pro 8 & Intel Specific.
 * **[6] Périphériques:** Device Cleanup.
 
